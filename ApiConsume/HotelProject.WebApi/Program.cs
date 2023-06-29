@@ -24,6 +24,8 @@ builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
 builder.Services.AddScoped<ITestimonialDal, EfTestimonialDal>();
 builder.Services.AddScoped<ITestimonialService, TestimonialManager>();
 
+builder.Services.AddAutoMapper(typeof(Program));
+
 //AddCors metodu bir API'ýn bir baþka kaynak tarafýndan tüketilmesine izin veren metotdur
 
 builder.Services.AddCors(opt => 

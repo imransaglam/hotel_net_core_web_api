@@ -74,3 +74,5 @@ C:\Users\ASUS\source\repos\HotelProject\ApiConsume\HotelProject.WebApi\obj\Debug
 C:\Users\ASUS\source\repos\HotelProject\ApiConsume\HotelProject.WebApi\obj\Debug\net6.0\HotelProject.WebApi.pdb
 C:\Users\ASUS\source\repos\HotelProject\ApiConsume\HotelProject.WebApi\obj\Debug\net6.0\HotelProject.WebApi.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\HotelProject\ApiConsume\HotelProject.WebApi\obj\Debug\net6.0\ref\HotelProject.WebApi.dll
+C:\Users\ASUS\source\repos\HotelProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ASUS\source\repos\HotelProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
