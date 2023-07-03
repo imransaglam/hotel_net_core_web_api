@@ -174,6 +174,10 @@ namespace HotelProject.DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RoomID"), 1L, 1);
 
+                    b.Property<string>("BathCount")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("BedCount")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
