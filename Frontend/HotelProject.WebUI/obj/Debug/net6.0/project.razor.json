@@ -15056,23 +15056,6 @@
         }
       },
       {
-        "HashCode": 616248815,
-        "Kind": "MVC.ViewComponent",
-        "Name": "__Generated___SubscribePartialViewComponentTagHelper",
-        "AssemblyName": "HotelProject.WebUI",
-        "CaseSensitive": false,
-        "TagMatchingRules": [
-          {
-            "TagName": "vc:_subscribe-partial"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "ITagHelper",
-          "Common.TypeName": "__Generated___SubscribePartialViewComponentTagHelper",
-          "MVC.ViewComponent.Name": "_SubscribePartial"
-        }
-      },
-      {
         "HashCode": 950064128,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated___TeamPartialViewComponentTagHelper",
@@ -18689,6 +18672,11 @@
     {
       "FilePath": "c:\\Users\\ASUS\\source\\repos\\HotelProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_ReservationPartial\\Default.cshtml",
       "TargetPath": "Views\\Shared\\Components\\_ReservationPartial\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ASUS\\source\\repos\\HotelProject\\Frontend\\HotelProject.WebUI\\Views\\Default\\_SubscribePartial.cshtml",
+      "TargetPath": "Views\\Default\\_SubscribePartial.cshtml",
       "FileKind": "mvc"
     },
     {
