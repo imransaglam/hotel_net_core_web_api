@@ -18,8 +18,8 @@ namespace HotelProject.WebApi.Controllers
         [HttpGet]
         public IActionResult RoomList()
         {
-            var models = _roomService.TGetList();
-            return Ok(models);
+            var values = _roomService.TGetList();
+            return Ok(values);
         }
         [HttpPost]
         public IActionResult AddRoom(Room room)
@@ -28,7 +28,7 @@ namespace HotelProject.WebApi.Controllers
             return Ok();
         }
         [HttpDelete("{id}")]
-        public IActionResult DeleteRoom(int id) 
+        public IActionResult DeleteRoom(int id)
         {
             var values = _roomService.TGetByID(id);
             _roomService.TDelete(values);
@@ -44,7 +44,8 @@ namespace HotelProject.WebApi.Controllers
         public IActionResult GetRoom(int id)
         {
             var values = _roomService.TGetByID(id);
-            return Ok();
+            return Ok(values);
         }
     }
 }
+    
