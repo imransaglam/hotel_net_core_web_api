@@ -258,3 +258,7 @@ C:\Users\ASUS\source\repos\HotelProject\Frontend\HotelProject.WebUI\bin\Debug\ne
 C:\Users\ASUS\source\repos\HotelProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\ASUS\source\repos\HotelProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
 C:\Users\ASUS\source\repos\HotelProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\HotelProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ASUS\source\repos\HotelProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\ASUS\source\repos\HotelProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ASUS\source\repos\HotelProject\Frontend\HotelProject.WebUI\obj\Debug\net6.0\HotelProject.WebUI.MvcApplicationPartsAssemblyInfo.cs
